@@ -139,6 +139,12 @@ input[type="email"]:placeholder-shown{
     font-size: 20px;
     font-weight: 400;
 }
+input[type="email"]:focus{
+    background: #FFFFFE;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
 input[type="submit"]{
     width: 147px;
     height: 67px;
